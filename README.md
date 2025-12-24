@@ -1,0 +1,1 @@
+Welcome to my repository! I created this project to practice and understand the basics of Git and GitHub.
